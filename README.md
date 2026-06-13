@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/entre-sabanas-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Entre sábanas de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/entre-sabanas-de-seda/) |
+| **Get License** | [Get License For Entre sábanas de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/entre-sabanas-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, la noche entera estoy pensándote
+> Tus ojos negros en la disco llamándome
+> Entre sábanas de seda quiero perderte
+> Con ese flow de Barcelona, baby, ven a verme
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
