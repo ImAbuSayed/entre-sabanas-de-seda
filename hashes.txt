@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Entre sábanas de seda
+
+This log tracks the cryptographic history and versioning for the song **Entre sábanas de seda** (entre-sabanas-de-seda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:16:59.333481 | `v1` | `56bbd94166d5bd0bb68162201a6b76669f39467b1c4db3ea7b59a3533b4720d7` | `d8f295367e5da94a26645f0c792ad0e9c9ede34340e709530a0fbda3e772d11b` | `2026-06-14_entre-sabanas-de-seda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
